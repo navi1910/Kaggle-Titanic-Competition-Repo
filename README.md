@@ -100,5 +100,5 @@ Note: 'accuracy_metric' was the evaluation metric used by Kaggle.
 ### Best Result:
 * Random Forest Classifier with GridSearchCV - **0.78468**
 
-<img src='https://github.com/navi1910/Kaggle-Titanic-Competition-Repo/blob/master/submission.png' height=50% width=50%>
+<img src='https://github.com/navi1910/Kaggle-Titanic-Competition-Repo/blob/master/submission.png' height=75% width=75%>
 

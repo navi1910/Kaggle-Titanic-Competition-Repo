@@ -55,7 +55,7 @@ To use machine learning to create a model that predicts which passengers survive
 ## Project Description
 This is a competition dataset which is widely used by everybody who learns machine learning. The data was obtained from Kaggle. The aim is to use Machine Learning to classify whether passenger survived or not. 
 
-<img src='https://github.com/navi1910/Kaggle-Titanic-Competition-Repo/blob/master/Age-hist.png' height=50% width=50%>
+<img src='https://github.com/navi1910/Kaggle-Titanic-Competition-Repo/blob/master/survived-sex.png' height=50% width=50%>
 
 ## Procedure
 * Import the required Python modules.

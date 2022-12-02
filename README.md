@@ -3,6 +3,8 @@
 
 ## Titanic - Machine Learning from Disaster
 
+<img src='https://github.com/navi1910/Kaggle-Titanic-Competition-Repo/blob/master/titanic-img.png' height=50% width=50%>
+
 ### Overview
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
@@ -33,6 +35,9 @@ To use machine learning to create a model that predicts which passengers survive
 * Machine Learning
 * Supervised Learning - Classification
 * Visualizations
+
+<img src='https://github.com/navi1910/Kaggle-Titanic-Competition-Repo/blob/master/Age-hist.png' height=50% width=50%>
+
 * Exploratory Data Analysis
 * GridSearchCV and RandomizedSearchCV
 
@@ -50,11 +55,16 @@ To use machine learning to create a model that predicts which passengers survive
 ## Project Description
 This is a competition dataset which is widely used by everybody who learns machine learning. The data was obtained from Kaggle. The aim is to use Machine Learning to classify whether passenger survived or not. 
 
+<img src='https://github.com/navi1910/Kaggle-Titanic-Competition-Repo/blob/master/Age-hist.png' height=50% width=50%>
+
 ## Procedure
 * Import the required Python modules.
 * Load the the data as a Data-Frame.
 * Check the basic information of the data.
 * Null value treatment.
+
+<img src='https://github.com/navi1910/Kaggle-Titanic-Competition-Repo/blob/master/Age-box.png' height=50% width=50%>
+
 * Feature Engineering.
 * Perform Exploratory Data Analysis using Data Visualizations.
 * Convert the required Catergorical Variables to numeric variables.
@@ -74,6 +84,7 @@ Note: GridSearchCV and RandomSearchCV was used where ever required for tuning th
 
 * The predictions were obtained from the test dataset.
 * The predictions from the models were stored in different Data-frames and were converted into '.csv' format files for submission.
+* The submitted '.csv' format files are available in the Repository.
 
 ## Results
 Note: 'accuracy_metric' was the evaluation metric used by Kaggle.
